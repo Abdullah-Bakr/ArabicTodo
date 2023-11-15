@@ -1,4 +1,4 @@
-# project link
+# Project Link
 
 https://abdullah-bakr.github.io/ArabicTodo/
 
